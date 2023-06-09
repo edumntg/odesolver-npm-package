@@ -1,0 +1,22 @@
+{
+  "name": "odesolver",
+  "version": "1.0.0",
+  "description": "JavaScript library that provides methods to solve Ordinary Differential Equations (ODEs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edumntg/odesolver-npm-package.git"
+  },
+  "keywords": [
+    "ODESolver"
+  ],
+  "author": "Eduardo Montilva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edumntg/odesolver-npm-package/issues"
+  },
+  "homepage": "https://github.com/edumntg/odesolver-npm-package#readme"
+}
